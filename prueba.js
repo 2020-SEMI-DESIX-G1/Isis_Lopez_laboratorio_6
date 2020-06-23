@@ -7,18 +7,18 @@ let primera = 'HOLA';
 let segunda = ' MUNDO'
 
 
-console.log('SUMA: '+(a+b)+' RESTA: '+(a-b)+' DIVISION: '+(a/b)+' MULTIPLICACION: '+(a*b));
-console.log(primera+segunda);
+console.log('Punto A Var: SUMA: '+(a+b)+' RESTA: '+(a-b)+' DIVISION: '+(a/b)+' MULTIPLICACION: '+(a*b));
+console.log('Punto B Let:'+primera+segunda);
 
 const tipo= true;
-console.log(typeof(tipo));
+console.log('Punto C CONST:'+typeof(tipo));
 
 var objeto = new Object();
  objeto.entero = 12;
  objeto.string = 'STRING';
  objeto.Bool = false;
- objeto.vac;   
+ objeto.vacio;   
 
- console.log(objeto.vac);
+ console.log('Punto D Objeto: '+objeto.vacio);
 
 
