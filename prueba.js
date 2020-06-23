@@ -14,7 +14,7 @@ const tipo= true;
 console.log(typeof(tipo));
 
 var objeto = new Object();
- objeto.entero = 1;
+ objeto.entero = 12;
  objeto.string = 'STRING';
  objeto.Bool = false;
  objeto.vac;   
