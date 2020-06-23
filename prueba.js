@@ -16,7 +16,7 @@ var objeto = new Object();
  objeto.entero = 1;
  objeto.string = 'STRING';
  objeto.Bool = false;
- objeto.vac  ;   
+ objeto.vac;   
 
  console.log(objeto.vac);
 
