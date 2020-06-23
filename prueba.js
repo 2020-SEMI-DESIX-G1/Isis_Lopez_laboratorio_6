@@ -6,6 +6,7 @@ var b ;
 let primera = 'HOLA';
 let segunda = ' MUNDO'
 
+
 console.log('SUMA: '+(a+b)+' RESTA: '+(a-b)+' DIVISION: '+(a/b)+' MULTIPLICACION: '+(a*b));
 console.log(primera+segunda);
 
