@@ -1,7 +1,7 @@
 
 
-var a ;
-var b ;
+var a =1 ;
+var b =2;
 
 let primera = 'HOLA';
 let segunda = ' MUNDO'
